@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julianajava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julianajava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Julianajava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -50,7 +50,7 @@
 
 ###
 
-My journey into the tech world began recently, and I am focused on developing skills in data analysis, programming, and software development. I enjoy taking on new challenges and collaborating with others to find effective solutions.<br><br><br><br><br><br>Skills & Interests<br><br><br>Data analysis and visualization<br><br>Programming basics (Python, Java, COBOL, JavaScript)<br><br>Infrastructure and networks<br><br>Agile methodologies<br><br>Continuous learning and improvement<br><br><br><br><br><br>Let's Connect!<br><br><br>Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
+<p align="left">Hello! I'm Juliana Ferreira<br><br>My journey into the tech world began recently, and I am focused on developing skills in data analysis, programming, and software development. I enjoy taking on new challenges and collaborating with others to find effective solutions.<br><br><br><br><br><br>Skills & Interests<br><br><br>Data analysis and visualization<br><br>Programming basics (Python, Java, COBOL, JavaScript)<br><br>Infrastructure and networks<br><br>Agile methodologies<br><br>Continuous learning and improvement<br><br><br><br><br><br>Let's Connect!<br><br><br>Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
 
 ###
 
