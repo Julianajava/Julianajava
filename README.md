@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Hello! I'm Juliana Ferreira<br><br><br>I'm currently training to become an analyst and I'm passionate about technology and problem-solving.<br>I live in Brasília, Brazil, a city that inspires me to keep learning and growing.<br><br><br><br><br>About Me<br><br><br>My journey into the tech world began recently, and I am focused on developing skills in data analysis, programming, and software development. I enjoy taking on new challenges and collaborating with others to find effective solutions.<br><br><br><br><br><br>Skills & Interests<br><br><br>Data analysis and visualization<br><br>Programming basics (Python, Java, COBOL, JavaScript)<br><br>Infrastructure and networks<br><br>Agile methodologies<br><br>Continuous learning and improvement<br><br><br><br><br><br>Let's Connect!<br><br><br>Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
+My journey into the tech world began recently, and I am focused on developing skills in data analysis, programming, and software development. I enjoy taking on new challenges and collaborating with others to find effective solutions.<br><br><br><br><br><br>Skills & Interests<br><br><br>Data analysis and visualization<br><br>Programming basics (Python, Java, COBOL, JavaScript)<br><br>Infrastructure and networks<br><br>Agile methodologies<br><br>Continuous learning and improvement<br><br><br><br><br><br>Let's Connect!<br><br><br>Feel free to explore my projects and reach out if you'd like to connect or collaborate.</p>
 
 ###
 
