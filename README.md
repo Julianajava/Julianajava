@@ -1,4 +1,14 @@
 
+
+# 👩🏻‍💻 Juliana Ferreira
+
+### Data Analyst • Data & AI • Python • SQL • Machine Learning
+
+Transformando dados em soluções inteligentes através da análise, ciência de dados e inteligência artificial.
+
+</div>
+
+---
 # 👩🏻‍💻 JULIANA FERREIRA
 
 <h2 align="left">Hi 👋! My name is Juliana and I'm from Brazil</h2>
