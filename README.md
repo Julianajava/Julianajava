@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julianajava/Julianajava/main/assetsbanner.png" alt="Banner Juliana Ferreira" width="100%">
+</p>
 
+<br>
 <h1 align="center">👩🏻‍💻 Juliana Ferreira</h1>
 
 <h3 align="center">
